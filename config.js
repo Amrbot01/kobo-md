@@ -11,9 +11,9 @@ const chalk = require('chalk')
 //━━━━━━━━━━━━━━━[ APIKEY TERPISAH ]━━━━━━━━━━━━━━━━━//
 lolkey = 'Apikey1'
 //━━━━━━━━━━━━━━━[ SETTINGS ]━━━━━━━━━━━━━━━━━//
-global.owner = ['62895604670507','62895604670507','62895604670507','0','62895604670507']
-global.premium = ['62895604670507']
-global.packname = 'KoboKanaeru-MD'
+global.owner = ['6282154156241','6282154156241','6282154156241','0','6282154156241']
+global.premium = ['6282154156241']
+global.packname = '𝙓𝙔𝙕𝙀𝙉 𝘽𝙊𝙏'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
